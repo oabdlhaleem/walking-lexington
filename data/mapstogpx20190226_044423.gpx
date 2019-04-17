@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2019 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2019</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/Patterson Office Tower, 120 Patterson Dr, Lexington, KY 40506/411 East Maxwell Street, Lexington, KY/@38.0379474,-84.5039236,16.15z/data=!4m19!4m18!1m10!1m1!1s0x884244be5093af0d:0xa97a55aae10e3916!2m2!1d-84.5041745!2d38.0386701!3m4!1m2!1d-84.5006813!2d38.038624!3s0x884244c070455015:0x808c322649bfda68!1m5!1m1!1s0x884244c2248fcff7:0xf4cf78cbcf655620!2m2!1d-84.4954862!2d38.0385515!3e1?hl=en</url-->
+    <time>2019-02-25T23:44:22Z</time>
+  </metadata>
+  <wpt lat="38.0386701" lon="-84.5041745">
+    <name>Patterson Office Tower</name>
+    <desc>Patterson Office Tower, 120 Patterson Dr, Lexington, KY 40506, USA</desc>
+  </wpt>
+  <wpt lat="38.0385515" lon="-84.4954862">
+    <name>411 East Maxwell Street</name>
+    <desc>411 E Maxwell St, Lexington, KY 40508, USA</desc>
+  </wpt>
+<trk>
+  <name>Patterson Office Tower to 411 East Maxwell Street</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="38.0388059" lon="-84.5039899">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="38.03862" lon="-84.50377">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="38.0385" lon="-84.50363">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="38.03836" lon="-84.50344">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="38.03831" lon="-84.50337">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="38.03828" lon="-84.50332">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="38.03821" lon="-84.50319">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="38.03819" lon="-84.50316">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="38.03814" lon="-84.50306">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="38.03802" lon="-84.50274">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="38.03798" lon="-84.50259">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="38.03796" lon="-84.50251">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="38.0379618" lon="-84.502511">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="38.038" lon="-84.50247">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="38.03812" lon="-84.5023">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="38.03845" lon="-84.50188">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="38.03875" lon="-84.50149">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="38.03878" lon="-84.50144">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="38.038783" lon="-84.5014447">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="38.03877" lon="-84.50122">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="38.03876" lon="-84.50084">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="38.0387608" lon="-84.5008358">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="38.03847" lon="-84.50051">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="38.03827" lon="-84.50028">
+    <name>TP024</name>
+  </trkpt>
+  <trkpt lat="38.03815" lon="-84.50015">
+    <name>TP025</name>
+  </trkpt>
+  <trkpt lat="38.03805" lon="-84.50003">
+    <name>TP026</name>
+  </trkpt>
+  <trkpt lat="38.03783" lon="-84.49979">
+    <name>TP027</name>
+  </trkpt>
+  <trkpt lat="38.037831" lon="-84.499788">
+    <name>TP028</name>
+  </trkpt>
+  <trkpt lat="38.03803" lon="-84.4995">
+    <name>TP029</name>
+  </trkpt>
+  <trkpt lat="38.03815" lon="-84.49934">
+    <name>TP030</name>
+  </trkpt>
+  <trkpt lat="38.03824" lon="-84.4992">
+    <name>TP031</name>
+  </trkpt>
+  <trkpt lat="38.03828" lon="-84.49914">
+    <name>TP032</name>
+  </trkpt>
+  <trkpt lat="38.03832" lon="-84.49908">
+    <name>TP033</name>
+  </trkpt>
+  <trkpt lat="38.03857" lon="-84.49871">
+    <name>TP034</name>
+  </trkpt>
+  <trkpt lat="38.0387" lon="-84.49852">
+    <name>TP035</name>
+  </trkpt>
+  <trkpt lat="38.0393" lon="-84.49766">
+    <name>TP036</name>
+  </trkpt>
+  <trkpt lat="38.0397" lon="-84.4971">
+    <name>TP037</name>
+  </trkpt>
+  <trkpt lat="38.039702" lon="-84.497097">
+    <name>TP038</name>
+  </trkpt>
+  <trkpt lat="38.03947" lon="-84.49685">
+    <name>TP039</name>
+  </trkpt>
+  <trkpt lat="38.03898" lon="-84.4963">
+    <name>TP040</name>
+  </trkpt>
+  <trkpt lat="38.03862" lon="-84.49589">
+    <name>TP041</name>
+  </trkpt>
+  <trkpt lat="38.03842" lon="-84.49567">
+    <name>TP042</name>
+  </trkpt>
+  <trkpt lat="38.0384231" lon="-84.4956667">
+    <name>TP043</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
